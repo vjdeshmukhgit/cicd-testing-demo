@@ -10,8 +10,7 @@ namespace cicd_testing_demo.Tests
         public void TestMethod1()
         {
             // check if math sum i correct
-            Assert.AreEqual(1,1);
-
+            Assert.Fail();                
         }
          
     }
